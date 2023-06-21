@@ -1,0 +1,20 @@
+button{
+    background-color: rgb(93, 63, 111);
+width: 50px;
+height: 50px;
+}
+
+body{
+    text-align: center;
+}
+
+#visor{
+    width: 200px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 10px;
+    border-width: 10px;
+    background-color: rgb(172, 133, 190);
+}

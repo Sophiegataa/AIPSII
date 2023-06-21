@@ -1,0 +1,22 @@
+h1{
+    color: rgb(230, 12, 121);
+    border: 2px solid pink;
+}
+
+h2{
+    color: rgb(238, 44, 44);
+}
+
+p{
+    color: rgb(153, 72, 18);
+}
+
+body{
+    background-color: rgb(245, 186, 196);
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
